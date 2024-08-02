@@ -1,6 +1,6 @@
 dask==2021.10.0                    
 gensim==3.1.0                     
-Keras==2.2.2                     
+Keras==2.13.1                     
 numpy==1.14.2                    
 pandas==0.23.4                    
 scikit-learn==0.18.2
